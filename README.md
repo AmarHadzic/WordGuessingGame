@@ -1,5 +1,8 @@
 # WordGuessingGame
 This game is similar to the popular hang man game. The user gets 5 fresh guesses to guess the correct word letter by letter. Case sensitivity does not matter in this program. Also, if a letter is submitted more than once, it only counts as one guess. For example, if the user input "A" twice and it was wrong both times, it will only subtract 1 guess. 
+# Prerequisite
+* Must have gradle installed
+* Must have a terminal of some sort (Apple machines already have one)
 # Tools Used
 * Java
 * Gradle
